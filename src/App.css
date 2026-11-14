@@ -1,0 +1,20 @@
+#pomodoro-viewer{
+  padding: 60px 80px;
+  background: burlywood;
+  border: 1px solid rgb(241, 238, 238);
+  border-radius: 20px;
+}
+
+.alert{
+  padding: 10px 10px;
+  background: rgb(67, 231, 67);
+  color: black;
+  border-radius: 20px;
+}
+
+#pomodoro-viewer button{
+  padding: 8px 10px;
+  cursor: pointer;
+  gap: 10px;
+  border-radius: 15px;
+}
